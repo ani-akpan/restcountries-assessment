@@ -1,0 +1,55 @@
+[
+  {
+    "name": {
+      "common": "Angola",
+      "official": "Republic of Angola"
+    },
+    "cca3": "AGO",
+    "borders": [
+      "COG",
+      "COD",
+      "ZMB",
+      "NAM"
+    ],
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "population": 32866268,
+    "area": 1246700.0
+  },
+  {
+    "name": {
+      "common": "Kiribati",
+      "official": "Independent and Sovereign Republic of Kiribati"
+    },
+    "cca3": "KIR",
+    "borders": null,
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "population": 119446,
+    "area": 811.0
+  },
+  {
+    "name": {
+      "common": "Guernsey",
+      "official": "Bailiwick of Guernsey"
+    },
+    "cca3": "GGY",
+    "borders": null,
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "population": 62999,
+    "area": 78.0
+  },
+  {
+    "name": {
+      "common": "Guadeloupe",
+      "official": "Guadeloupe"
+    },
+    "cca3": "GLP",
+    "borders": null,
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "population": 400132,
+    "area": 1628.0
+  }
+]
